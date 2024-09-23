@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JOGO COMENTARIOS/1.0.0": {
+        "runtime": {
+          "JOGO COMENTARIOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JOGO COMENTARIOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\bin\Debug\net8.0\JOGO1.exe
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\bin\Debug\net8.0\JOGO1.deps.json
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\bin\Debug\net8.0\JOGO1.runtimeconfig.json
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\bin\Debug\net8.0\JOGO1.dll
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\bin\Debug\net8.0\JOGO1.pdb
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\JOGO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\JOGO1.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\JOGO1.AssemblyInfo.cs
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\JOGO1.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\JOGO1.dll
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\refint\JOGO1.dll
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\JOGO1.pdb
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\JOGO1.genruntimeconfig.cache
+C:\Users\j02\Documents\JOGO TAPAUE\JOGO OFICIAL\JOGO1\obj\Debug\net8.0\ref\JOGO1.dll
